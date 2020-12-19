@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.arun.refactoring.BooleanParametersTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2020-12-19T01:17:56" hostname="Aruns-MacBook-Pro.local" time="0.019">
+  <properties/>
+  <testcase name="testBooleanParameters" classname="com.arun.refactoring.BooleanParametersTest" time="0.019"/>
+  <system-out><![CDATA[Complex logic 1 10 : 20
+Complex logic 2 10 : 20
+Complex logic 3 10 : 20
+More Complex logic 4 10 : 20
+More Complex logic 5 10 : 20
+More Complex logic 6 10 : 20
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
